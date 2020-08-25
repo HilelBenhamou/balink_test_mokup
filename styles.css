@@ -228,6 +228,7 @@ body{
 .part3{
     display: flex;
     flex-direction: row;
+    margin-left: 170px;
 }
 .div1_part3, .div2_part3{
     width: 50%;
